@@ -11,7 +11,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: zunaisha-website
+        working-directory: my-static-website
 
     steps:
     - name: Checkout code
